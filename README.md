@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanth-raju-311&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth-raju-311" /> </p>
 
-- 🔭 I’m currently working on **Underwater Plastic Surveillance with YOLOv9**
-
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
-
 - 📫 How to reach me **hemanthraju311@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
