@@ -14,8 +14,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,c,cpp,css,flutter,html,java,mysql,nodejs,opencv,python,pytorch,react,sklearn,tensorflow&perline=8)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=aws,azure,c,cpp,css,flutter,html,java,mysql,nodejs,opencv,python,pytorch,react,sklearn,tensorflow&perline=8" />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanth-raju-311&show_icons=true&locale=en&layout=compact" alt="hemanth-raju-311" /></p>
