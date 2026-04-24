@@ -42,7 +42,7 @@
 <br/>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,docker,git,neo4j,linux,vscode,github,azure,java,js,html,css,mysql&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,docker,git,linux,vscode,github,azure,java,js,html,css,mysql&perline=9" />
 </p>
 
 <br/>
