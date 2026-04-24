@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hemanth Raju</h1>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hemanth+Raju" alt="Typing SVG" />
+</div>
+
 <h3 align="center">AI & ML Engineer | VIT Chennai</h3>
 
 <br/>
@@ -46,6 +49,4 @@
 
 ---
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth-raju-311&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanth-raju-311&show_icons=true&locale=en&layout=compact" alt="hemanth-raju-311" /></p>
