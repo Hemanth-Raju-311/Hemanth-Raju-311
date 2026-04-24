@@ -1,12 +1,14 @@
 <div align="center">
 
+<img src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" width="150" style="border-radius: 50%;" />
+
 <p><img src="https://komarev.com/ghpvc/?username=hemanth-raju-311&label=Profile%20views&color=0e75b6&style=flat" /></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hemanth+%F0%9F%91%8B;AI+%26+ML+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hemanth;AI+%26+ML+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
 <br/>
 
-> B.Tech CSE (AI & ML) @ VIT Chennai &nbsp;|&nbsp;  LLMs · Federated Learning · Computer Vision
+>  B.Tech CSE (AI & ML) @ VIT Chennai &nbsp;|&nbsp;  LLMs · Federated Learning · Computer Vision
 
 <br/>
 
@@ -22,7 +24,7 @@
 
 ---
 
-### GitHub Stats
+###  GitHub Stats
 
 <br/>
 
