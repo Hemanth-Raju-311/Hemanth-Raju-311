@@ -1,16 +1,23 @@
 <div align="center">
 
-<img src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" width="150" style="border-radius: 50%;" />
+<table border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td valign="middle" align="left" width="60%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=false&vCenter=true&width=480&lines=AI+%26+ML+Engineer+%7C+VIT+Chennai+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+
+<br/>
 
 <p><img src="https://komarev.com/ghpvc/?username=hemanth-raju-311&label=Profile%20views&color=0e75b6&style=flat" /></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hemanth;AI+%26+ML+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+</td>
+<td valign="middle" align="right" width="40%">
 
-<br/>
+<img src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" width="220" />
 
->  B.Tech CSE (AI & ML) @ VIT Chennai &nbsp;|&nbsp;  LLMs · Federated Learning · Computer Vision
-
-<br/>
+</td>
+</tr>
+</table>
 
 ---
 
