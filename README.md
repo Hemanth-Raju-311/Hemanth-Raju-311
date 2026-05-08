@@ -17,12 +17,13 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/-hemanth-raju" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/hemanthraju311" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.leetcode.com/hemanthraju311" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://hemanth-raju.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/My%20Portfolio-00C2FF?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanth-raju-311&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemanth-raju-311&theme=tokyonight" />
 
 </td>
 <td valign="middle" align="center" width="50%">
@@ -49,4 +50,6 @@
 
 ---
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanth-raju-311&show_icons=true&locale=en&layout=compact" alt="hemanth-raju-311" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
